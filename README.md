@@ -1,7 +1,7 @@
 # Overview
 This is one of the hardest logic puzzles I have ever come across. Part of the reason for that is the mindset and type of skills required to solve it are completely alien to any formal training or life experiences I have had. To ensure you can enjoy it without spoiling it, the puzzle is described below but rather than writing out the answer in plain English I have included a Python script which solves the problem.
 
-I don't know the origin of this puzzle and I've searched the Internet to no avail. I can't even find a copy of the puzzle text or any variation of it. I have an idea where it came from, but that isn't confirmed so if you know please open an issue and let me know!
+I don't know the origin of this puzzle and I've searched the Internet to no avail. I can't even find a copy of the puzzle text or any variation of it. I have an idea of where it came from, but that isn't confirmed so if you know please open an issue and let me know!
 
 # Puzzle
 
