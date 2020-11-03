@@ -24,7 +24,7 @@ def play():
         print(total_str)
 
         # Get the last digit of the total value
-        unit = int(str(total)[-1])
+        unit = total % 10
 
         if unit > i:
             prediction = (i + 10) - unit
