@@ -12,7 +12,9 @@ The 10 wizards will be summoned to stand in a circle all facing inwards so that 
 
 The witch will ask each wizard one at a time what the colour of the hat on their own head is. If just one of the wizards can correctly guess the colour of the hat on their own head, all 10 wizards will be spared. If none of them can correctly guess their own hat colour they will all be killed.
 
-It is the night before the summoning and the wizards have foreseen that this test will be presented to them in the morning by their capture. But the witch is too powerful, they can’t foresee the hat colours. They can discuss the night before a strategy which they can each use the following morning, to try and guess their own hat colour correctly. They must formulate a strategy which guarantees that at least one of them will guess their own hat colour correctly. What is the strategy they can use?
+Once the wizards have been summoned for the test, the wizards can no longer commnunicate amongst themselves, otherwise the witch will kill them. This means that what one wizards says when announcing their guess has no influence on the guess of any of the other wizards.
+
+It is the night before the summoning, and the wizards have foreseen that this test will be presented to them in the morning by their captor. But the witch is too powerful, they can’t foresee the hat colours. They can discuss the night before a strategy which they can each use the following morning, to try and guess their own hat colour correctly. They must formulate a strategy which guarantees that at least one of them will guess their own hat colour correctly. What is the strategy they can use?
 
 ## Clarification:
 To be clear, given a list of 10 possible colours, the colour of the hat that will appear on each wizard's head will be one of those 10 colours chosen at random. This means that each of the 10 wizards could have a different coloured hat on, or they could all be wearing the same colour, or any combination of the 10 possible colours. Exactly what the 10 colours are is irrelevant.
